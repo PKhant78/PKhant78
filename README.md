@@ -6,7 +6,6 @@
 <!--Start Intro-->               
 <p align="left">Hi, I am currently a student studying Computer Science. I'm interested in Fullstack Development and App Development.</p>
 <!--End Intro-->
-<br />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
