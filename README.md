@@ -12,7 +12,6 @@
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,postgres,git,vscode,postman,cpp,cs&perline=10"  />
 </p>
-<br />
 
 <!--Projects-->
 <h2 align="center">ɴᴏᴛᴀʙʟᴇ ᴘʀᴏᴊᴇᴄᴛs</h2> 
