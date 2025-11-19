@@ -19,19 +19,19 @@
 ### Physics Learning Platform (Internship @ Tech To Talent Pipleine Residency)
 [View Repository (Frontend)](https://github.com/TTP-Capstone-II/Capstone-II-Frontend)
 [View Repository (Backend)](https://github.com/TTP-Capstone-II/Capstone-II-Backend)
-- Developed a full-stack Physics learning platform to provide interactive education for Newtonian Physics using NodeJS, React, PostgreSQL and RESTful APIs
-- Incorporated MatterJS to build a Physics simulator with user input and animations for Friction, Torque and Projectile Motion.
-- Implemented voice chat with a mesh network architecture using Socket.IO and WebRTC where users can collaborate with others in real-time to solve Physics problems.
+- Developed a full-stack Physics learning platform with 5 interactive modules and simulations (Friction, Torque, Projectile Motion, Freefall, Collision) using Node.js, Matter.js, React, PostgreSQL, and RESTful APIs.
+- Designed PostgreSQL database schemas and RESTful APIs for user authentication and simulation data, including AWS S3 media upload endpoints with pre-signed URLs to store user-uploaded images.
+- Implemented voice chat with a mesh network architecture using Socket.IO and WebRTC, increasing user capacity for real-time collaboration by 150.
 
 ### “MRCane”: Layout Builder 
 [View Repository](https://github.com/PKhant78/Map)
-- Led a team of 3 in the development of a custom room layout builder using Unity and C# for an accessibility app that focuses on navigation training for visually impaired people.
+- Built a custom room layout builder using Unity and C# for an accessibility app that focuses on navigation training for visually impaired people.
 - Coordinated code and UI/UX design collaboration to implement a grid layout to allow for consistent object placement and map design
 
 ### QPractice
 [View Repository](https://github.com/PKhant78/qpracticeh)
-- Created a GUI application with QTCreator that test beginner level knowledge of C++ using C++ and Qt Framework.
-- Utilized QProcess to create an external program with compiled user-submitted code and checks its output against XML-formatted answers for grading
+- Created a GUI application using C++, Qt Framework and QTCreator to quiz programming fundamentals of C++ such as memory management, object-oriented design and writing functions.
+- Utilized QProcess to create an external program with compiled user-submitted code and checks its output against XML-formatted answers for grading.
 
 
 <!--Github stats Table--> 
