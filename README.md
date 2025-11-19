@@ -4,7 +4,7 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">Hi, I am currently a student studying Computer Science. I'm interested in Fullstack Development and App Development.</p>
+<p align="left">Hi, I am currently a student studying Computer Science. I'm interested in Fullstack Development and App Development. I also enjoy working with C++. </p>
 <!--End Intro-->
 
 <!--Languages and Tools Section-->       
