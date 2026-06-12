@@ -13,10 +13,17 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,postgres,git,vscode,postman,cpp,cs,github,qt,vercel,unity,visualstudio,dotnet,sequelize&perline=10"  />
 </p>
 
+<!--Open source contributions-->   
+<h2 align="center">ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴs</h2> 
+
+### Mozilla Firefox
+[View Commit](https://github.com/mozilla-firefox/firefox/commit/b0ac1c45e43032b2103e4c630255daf6521b8784)
+- Renamed a shared Firefox design-system color token so engineers and designers can refer to the same shade with a clearer, consistent name across the codebase.
+  
 <!--Projects-->
 <h2 align="center">ɴᴏᴛᴀʙʟᴇ ᴘʀᴏᴊᴇᴄᴛs</h2> 
 
-### Physics Learning Platform (Internship @ Tech To Talent Pipleine Residency)
+### Physics Learning Platform (Internship @ Tech To Talent Pipeline Residency)
 [View Repository (Frontend)](https://github.com/TTP-Capstone-II/Capstone-II-Frontend)
 [View Repository (Backend)](https://github.com/TTP-Capstone-II/Capstone-II-Backend)
 - Developed a full-stack Physics learning platform with 5 interactive modules and simulations (Friction, Torque, Projectile Motion, Freefall, Collision) using Node.js, Matter.js, React, PostgreSQL, and RESTful APIs.
@@ -28,12 +35,6 @@
 - Built a custom room layout builder using Unity and C# for an accessibility app that focuses on navigation training for visually impaired people.
 - Coordinated code and UI/UX design collaboration to implement a grid layout to allow for consistent object placement and map design
 
-### QPractice
-[View Repository](https://github.com/PKhant78/qpracticeh)
-- Created a GUI application using C++, Qt Framework and QTCreator to quiz programming fundamentals of C++ such as memory management, object-oriented design and writing functions.
-- Utilized QProcess to create an external program with compiled user-submitted code and checks its output against XML-formatted answers for grading.
-
-
 <!--Github stats Table--> 
 <h2 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs</h2>
 
@@ -44,14 +45,6 @@
       <p align="center">
         <a href="https://github.com/PKhant78">
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=PKhant78&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-        <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/PKhant78">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=PKhant78&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
