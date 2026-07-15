@@ -23,7 +23,7 @@
 <!--Projects-->
 <h2 align="center">ɴᴏᴛᴀʙʟᴇ ᴘʀᴏᴊᴇᴄᴛs</h2> 
 
-### Physics Learning Platform (Internship @ Tech To Talent Pipeline Residency)
+### Physics Learning Platform (SWE Fellow @ Tech To Talent Pipeline Residency)
 [View Repository (Frontend)](https://github.com/TTP-Capstone-II/Capstone-II-Frontend)
 [View Repository (Backend)](https://github.com/TTP-Capstone-II/Capstone-II-Backend)
 - Developed a full-stack Physics learning platform with 5 interactive modules and simulations (Friction, Torque, Projectile Motion, Freefall, Collision) using Node.js, Matter.js, React, PostgreSQL, and RESTful APIs.
